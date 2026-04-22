@@ -60,11 +60,11 @@ Sorted vs unsorted: Bubble Sort runs faster on sorted data (1.4–2.6x) due to O
 
 D. Screenshots
 
-![Screenshot 1](Screenshots/input1.png)
+![Screenshot 1](Screenshot/input1.png)
 
-![Screenshot 2](Screenshots/input2.png)
+![Screenshot 2](Screenshot/input2.png)
 
-![Screenshot 3](Screenshots/input3.png)
+![Screenshot 3](Screenshot/input3.png)
 
 E. Reflection Section
 
