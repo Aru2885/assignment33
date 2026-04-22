@@ -62,8 +62,8 @@ D. Screenshots
 
 ![Screenshot1](Screenshots/input1.png)
 
-![Screenshot2](docs/input2.png)
+![Screenshot2](Screenshots/input2.png)
 
-![Screenshot3](docs/input3.png)
+![Screenshot3](Screenshots/input3.png)
 
 
